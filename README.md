@@ -1,4 +1,4 @@
-<base target="_blank">
+
 # Portfolio
 
 This is a static front-end project made by *Umair Ali Bhutto*.
@@ -10,7 +10,7 @@ This will open your file in your browser.
 
 ## Deployed
 
-This Website is already deployed on my site [HERE](https://umairalibhutto254.000webhostapp.com/portfolio/)
+This Website is already deployed on my site <a href="https://umairalibhutto254.000webhostapp.com/portfolio/" target="_blank">https://umairalibhutto254.000webhostapp.com/portfolio/</a>
 
 ## Development 
 

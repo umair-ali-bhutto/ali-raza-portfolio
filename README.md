@@ -9,7 +9,7 @@ This will open your file in your browser.
 
 ## Deployed
 
-This Website is already deployed on [website](https://umairalibhutto254.000webhostapp.com/portfolio/)
+This Website is already deployed on my site [HERE](https://umairalibhutto254.000webhostapp.com/portfolio/)
 
 ## Development 
 

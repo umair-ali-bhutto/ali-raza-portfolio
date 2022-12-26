@@ -1,7 +1,7 @@
 
 # Portfolio
 
-This is a static front-end project made by **Umair Ali Bhutto**.
+This is a static front-end project made by ***Umair Ali Bhutto***.
 
 ## Getting started 
 

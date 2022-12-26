@@ -1,3 +1,4 @@
+<base target="_blank">
 # Portfolio
 
 This is a static front-end project made by *Umair Ali Bhutto*.

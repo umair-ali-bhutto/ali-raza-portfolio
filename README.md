@@ -7,6 +7,10 @@ This is a static front-end project made by *Umair Ali Bhutto*.
 To get started with this project you need to open your project directory and double click on index.html file in your project folder.
 This will open your file in your browser.
 
+## Deployed
+
+This Website is already deployed on [website](https://umairalibhutto254.000webhostapp.com/portfolio/)
+
 ## Development 
 
 If you want to edit the index.html file open it in any editor you have access to but i would recommend visual studio code [VS-code](https://code.visualstudio.com/download).

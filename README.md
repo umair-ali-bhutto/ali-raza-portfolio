@@ -3,7 +3,7 @@
 
 This is a static front-end project made by ***Umair Ali Bhutto***.
 
-## Getting started 
+## Getting started with the project
 
 To get started with this project you need to open your project directory and double click on index.html file in your project folder.
 This will open your file in your browser.

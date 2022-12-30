@@ -1,11 +1,10 @@
 {
-    "version": "2.0.0.2",
-    "newProjectRoot": "Ali_raza_portfolio_development_version",
-  "finalUrl": "https://umairalibhutto254.000webhostapp.com/portfolio/index.html",
+    "version": "2.0.0.3",
+    "newProjectRoot": "Ali_raza_portfolio",
+  "semiFinalUrl": "https://umairalibhutto254.000webhostapp.com/portfolio/index.html",
     "project": {
         "name": "Portfolio",
-        "projectType": "front-end application",
-        "sourcesRoot": "assets/",
+        "projectType": "Front-end Application",
         "private": true,
         "architect": {
             "builder": "Umair Ali Bhutto",
@@ -25,7 +24,6 @@
             }
         },
         "dependencies": {
-            "animation.js": "",
             "jquery": "1.12.4",
             "tilt.jquery.js": ""
         }

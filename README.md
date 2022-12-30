@@ -10,7 +10,7 @@ This will open your file in your browser.
 
 ## Deployed
 
-This Website is already deployed on my site [HERE](https://umairalibhutto254.000webhostapp.com/portfolio/)
+This Website is already deployed on my site [HERE](https://umairalibhutto254.000webhostapp.com/portfolio/) and [HERE](https://umair-ali-bhutto.github.io/ali-raza-portfolio/)
 
 ## Development 
 

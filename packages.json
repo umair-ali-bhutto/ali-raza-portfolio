@@ -25,7 +25,8 @@
         },
         "dependencies": {
             "jquery": "1.12.4",
-            "tilt.jquery.js": ""
+            "tilt.jquery.js": "",
+            "animate":""
         }
     }
 }

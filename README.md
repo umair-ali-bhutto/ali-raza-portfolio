@@ -26,4 +26,4 @@ and [tinypng](https://tinypng.com/).
 
 ## For Further help
 
-To get more help on the project you can email me at my email [Email](mailto:umair2101f@aptechgdn.net).
+To get more help on the project you can email me at my email [umair2101f@aptechgdn.net](mailto:umair2101f@aptechgdn.net).

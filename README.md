@@ -10,7 +10,7 @@ This will open your file in your browser.
 
 ## Deployed
 
-This Website is already deployed on my site [HERE](https://umairalibhutto254.000webhostapp.com/portfolio/)
+This Website is already deployed on my site [000WEBHOST](https://umairalibhutto254.000webhostapp.com/portfolio/) and [GITHUB](https://umair-ali-bhutto.github.io/ali-raza-portfolio/)
 
 ## Development 
 
@@ -26,4 +26,4 @@ and [tinypng](https://tinypng.com/).
 
 ## For Further help
 
-To get more help on the project you can email me at my email [Email](mailto:umair2101f@aptechgdn.net).
+To get more help on the project you can email me at my email [umair2101f@aptechgdn.net](mailto:umair2101f@aptechgdn.net).

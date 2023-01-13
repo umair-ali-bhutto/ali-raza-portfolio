@@ -150,8 +150,10 @@ h6 {
 /* col-lg-md-sm-number */
 .col-lg-3,
 .col-lg-6,
+.col-lg-12,
 .col-md-3,
 .col-md-6,
+.col-md-12,
 .col-sm-12{
   position: relative;
   width: 100%;
@@ -248,6 +250,10 @@ h6 {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
     max-width: 50%
+  }.col-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%
   }
 
 
@@ -308,11 +314,7 @@ h6 {
     max-width: 91.666667%
   }
 
-  .col-md-12 {
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-    max-width: 100%
-  } */
+   */
 
 }
 
@@ -326,6 +328,11 @@ h6 {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
     max-width: 50%
+  }
+  .col-lg-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%
   }
 
   /* .col-lg-1 {
@@ -385,11 +392,7 @@ h6 {
     max-width: 91.666667%
   }
 
-  .col-lg-12 {
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-    max-width: 100%
-  } */
+  */
 
 
 }
@@ -632,10 +635,6 @@ footer a:hover {
 
 footer {
   background-color: black;
-}
-
-.col-sm-12 {
-  margin-top: 2%;
 }
 
 @media (min-width: 2000px) {

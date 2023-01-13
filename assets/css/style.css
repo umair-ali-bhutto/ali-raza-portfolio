@@ -365,6 +365,15 @@ body {
 
 
 
+a {
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none
+}
+
 h1,
 h2,
 h3,
@@ -372,35 +381,6 @@ h4,
 h5,
 h6 {
   margin-top: 0;
-  margin-bottom: .5rem
-}
-
-
-a {
-  text-decoration: none;
-}
-
-
-
-
-
-img {
-  vertical-align: middle;
-  border-style: none
-}
-
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
   margin-bottom: .5rem;
   font-weight: 500;
   line-height: 1.2
@@ -811,7 +791,7 @@ same with margin and padding
 
 
 .text-center {
-  text-align: center !important
+  text-align: center !important;
 }
 
 
@@ -824,9 +804,7 @@ same with margin and padding
   background-color: red;
 }
 
-.img {
-  width: 100%;
-}
+
 
 
 @font-face {
@@ -849,22 +827,22 @@ same with margin and padding
 
 }
 
-.main {
-  width: 100%;
+.card-image {
+  
   border-radius: 25px;
 
 }
 
-.main-text {
+.card-text {
   text-align: center;
   font-family: barlow-medium;
 }
 
-.anchor {
+.card-route {
   color: black;
 }
 
-.anchor:hover {
+.card-route:hover {
   text-decoration: none;
   color: black;
 }
@@ -894,21 +872,21 @@ same with margin and padding
 }
 
 
-.div-outer {
+.card-wrapper {
   transition: 300ms;
   padding: 2%;
   padding: 5%;
 
 }
 
-.div-outer:hover {
+.card-wrapper:hover {
   border-radius: 25px;
   box-shadow: rgb(122, 122, 122) 0px 0px 60px -1px;
 
 }
 
 
-.anchor-inner {
+.inner-route {
   border-radius: 25px;
   background-color: white;
   white-space: nowrap;
@@ -919,7 +897,7 @@ same with margin and padding
   font-family: barlow-medium;
 }
 
-.anchor-inner:hover {
+.inner-route:hover {
   color: white;
   background-color: black;
 
@@ -947,7 +925,7 @@ same with margin and padding
   font-family: barlow-medium;
 }
 
-.main-hero {
+.wrapper {
   border-radius: 25px;
   background-color: black;
   height: fit-content;
@@ -976,15 +954,14 @@ same with margin and padding
 }
 
 .hero-image {
-  padding: 1%;
-  width: 100%;
+  padding: 5%;
   filter: grayscale(1);
-  transition: transform 0.5s ease-in-out;
+  transition: transform 0.3s ease-in-out;
 }
 
 .hero-image:hover {
   
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 footer a {
@@ -1010,14 +987,12 @@ footer {
   margin-top: 2%;
 }
 
-@media screen and (min-width: 1800px) {
+@media (min-width: 2000px ) {
   .home {
-    font-size: 250%;
+    font-size: 350%;
   }
 
-  .main-text {
-    font-size: 250%;
-  }
+
 
   .hero-about {
     font-size: 250%;
@@ -1031,65 +1006,75 @@ footer {
     font-size: 250%;
   }
 
-  .main-hero {
-    height: 200vh;
+  .wrapper {
+    height: fit-content;
   }
 
-  .anchor-inner {
+  .inner-route {
     font-size: 250%;
   }
 
-  .main-text {
-    font-size: 250%;
+  .card-text {
+    font-size: 550%;
 
   }
 }
 
-@media screen and (max-width: 650px) {
-  .home {
-    font-size: 200%;
-  }
+@media(max-width: 650px) {
 
   .hero-center {
     text-align: center;
   }
 
   .hero-image {
-    height: 70%;
-    width: 70%;
+    height: 80%;
+    width: 80%;
   }
 
   .logo {
-    width: 20%;
+    width: 8%;
   }
 
-  .main-hero {
+  .wrapper {
     height: fit-content;
   }
 }
 
-/* scroll bar */
-body::-webkit-scrollbar {
+/* contact developer button */
+#show-display {
+  display: none;
+  font-family: barlow-medium;
+}
+.contact-dev{
+  color:white;
+  font-family: barlow-medium;
+}
+
+
+
+
+
+
+/* scroll bar for chrome */
+*::-webkit-scrollbar {
   width: 0.5em;
 }
 
-body::-webkit-scrollbar-track {
-  background: linear-gradient(rgb(44, 44, 44), rgb(0, 0, 0));
+*::-webkit-scrollbar-track {
+  background-color: black;
+  
 }
 
-body::-webkit-scrollbar-thumb {
+*::-webkit-scrollbar-thumb {
   background: white;
   border-radius: 100vw;
+  
 }
 
-body::-webkit-scrollbar-thumb:hover {
-  background: rgb(134, 134, 134);
-  border-radius: 100vw;
-  border: white 1px solid;
-}
-/* scroll bar */
 
-
-#show-display {
-  display: none;
+/* scroll bar for firefox*/
+* {
+  scrollbar-width: auto;
+  scrollbar-color: black white;
 }
+

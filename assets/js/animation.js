@@ -192,6 +192,6 @@ wow = new WOW(
 );
 wow.init();
 
-
-
+//Custom console print function
+console.log("%cHey There Fellow \'USER\' Why Are You Here in Developer Options",`text-align:center;background:linear-gradient(90deg,rgb(200,0,0),black);padding:4%;color:white;font-size:larger;border-radius:8px;line-height:20px;`);
 

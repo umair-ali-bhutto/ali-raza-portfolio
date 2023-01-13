@@ -569,6 +569,7 @@ same with margin and padding
 
 .brand-text {
   font-family: barlow-medium;
+  font-size: xx-large;
 }
 
 .wrapper {
@@ -685,6 +686,9 @@ footer {
 
   .wrapper {
     height: fit-content;
+  }
+  .brand-text {
+    font-size: large;
   }
 }
 

@@ -1,29 +1,61 @@
+# Front-end Portfolio
 
-# Portfolio
+Welcome to my front-end portfolio! This portfolio showcases my Graphic Design projects and provides an overview of my skills, experience, and accomplishments in the field of Graphic Designing.
 
-This is a static front-end project made by ***Umair Ali Bhutto***.
+## Live Demo
 
-## Getting started with the project
+- [https://umairalibhutto254.000webhostapp.com/portfolio/](https://umairalibhutto254.000webhostapp.com/portfolio/)
+- [https://umair-ali-bhutto.github.io/ali-raza-portfolio/](https://umair-ali-bhutto.github.io/ali-raza-portfolio/)
 
-To get started with this project you need to open your project directory and double click on index.html file in your project folder.
-This will open your file in your browser.
+Feel free to visit the live demo links above to explore my portfolio and see my work in action.
 
-## Deployed
+## Technologies Used
 
-This Website is already deployed on my site [000WEBHOST](https://umairalibhutto254.000webhostapp.com/portfolio/) and [GITHUB](https://umair-ali-bhutto.github.io/ali-raza-portfolio/)
+- HTML5
+- CSS3
+- JavaScript
 
-## Development 
+## Image Compression
 
-If you want to edit the index.html file open it in any editor you have access to but i would recommend visual studio code [VS-code](https://code.visualstudio.com/download).
-After that you can edit the contents of the pages.
-Note: kindly do remember that the images used in the project or any images that you will induce the upcoming future have been compressed and converted to webp format for more information on webp you 
-can go to [webp](https://developers.google.com/speed/webp).
+To optimize the loading speed and performance of the portfolio, I have used image compression techniques. I have utilized the following tools for image compression:
 
-for Compression i have used [imagecompressor](https://imagecompressor.11zon.com/en/compress-webp/).
+- [https://imagecompressor.11zon.com/en/compress-webp/](https://imagecompressor.11zon.com/en/compress-webp/)
+- [https://tinypng.com/](https://tinypng.com/)
 
-for conversion i have used [convert](https://converter.11zon.com/en/image-to-webp/)
-and [tinypng](https://tinypng.com/).
+Using these tools, I have compressed the images in my portfolio to reduce their file size without compromising on quality.
 
-## For Further help
+## Editing the Portfolio
 
-To get more help on the project you can email me at my email [umair2101f@aptechgdn.net](mailto:umair2101f@aptechgdn.net).
+I have used Visual Studio Code (VS Code) as my code editor for developing this portfolio. VS Code is a powerful and versatile code editor with excellent support for web development.
+
+To edit the portfolio, follow the steps below:
+
+1. Install Visual Studio Code (if you haven't already) from the official website: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+2. Clone the repository or download the code.
+
+3. Open the project folder in VS Code.
+
+4. Make the necessary changes to the HTML, CSS, and JavaScript files to customize the portfolio according to your requirements.
+
+5. Save the changes.
+
+## License
+
+This portfolio is released under the [MIT License](LICENSE).
+
+## About The Dev
+
+My name is Umair Ali Bhutto, and I am a developer passionate about creating engaging and user-friendly web experiences. I have experience working with many languages like HTML,CSS,JAVASCRIPT to build responsive and visually appealing websites.
+
+If you have any questions, suggestions, or opportunities, feel free to reach out to me. You can contact me at:
+
+- Email: [umair2101f@aptechgdn.net](mailto:umair2101f@aptechgdn.net)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/umairalibhutto)
+- Portfolio Website: [https://umairalibhutto254.000webhostapp.com](https://umairalibhutto254.000webhostapp.com)
+
+---
+
+Thank you for visiting! I hope you enjoy exploring my work.
+
+Happy exploring!
